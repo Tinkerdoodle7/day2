@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">day2</string>
+    <string name="text">OVERWATCH</string>
+    <string name="text1">No. 2 California</string>
+    <string name="text2">United States</string>
+    <string name="button">Contact us</string>
+    <string name="text3">overwatch@esports.com</string>
+
+</resources>
